@@ -152,7 +152,7 @@ body {
   }
   #section-d a {
     color: #fafafa;
-    text-decoration: none;
+    text-decoration: underline;
   }
 
   /* Footer */
