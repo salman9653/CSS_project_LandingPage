@@ -155,7 +155,7 @@ body {
     text-decoration: none;
   }
  #section-d a:hover {
-    text-decoration: underline;
+    border-bottom: 1px solid white;
   }
 
   /* Footer */
