@@ -152,6 +152,9 @@ body {
   }
   #section-d a {
     color: #fafafa;
+    text-decoration: none;
+  }
+ #section-d a:hover {
     text-decoration: underline;
   }
 
